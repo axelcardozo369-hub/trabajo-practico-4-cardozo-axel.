@@ -4,7 +4,7 @@
   "description": "**ALUMNO:** Cardozo Axel",
   "main": "app.js",
   "scripts": {
-    "dev": "node --watch app.js"
+    "dev": "nodemon app.js"
   },
   "keywords": [],
   "author": "",
